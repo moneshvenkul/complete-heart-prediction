@@ -1,5 +1,7 @@
 ## Heart Disease Classifier
 
+Check the demo here: https://complete-heart-prediction.herokuapp.com/
+
 ## Project Overview
 
 The data science lifecycle is designed for big data issues and the data science projects. Generally, the data science project consists of seven steps which are problem definition, data collection, data preparation, data exploration, data modeling, model evaluation and model deployment.
